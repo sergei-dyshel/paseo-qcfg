@@ -1,0 +1,8 @@
+{
+  "id": "qcfg",
+  "name": "qcfg",
+  "description": "Click a local file link in Paseo's formatted text to run your own program on it. Hold a modifier key to open the link in Paseo.",
+  "requirements": {
+    "paseo": ">=0.15.3"
+  }
+}
